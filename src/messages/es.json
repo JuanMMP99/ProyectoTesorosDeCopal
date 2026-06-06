@@ -1,0 +1,33 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "catalog": "Catálogo",
+    "workshop": "Taller",
+    "visits": "Visitas",
+    "contact": "Contacto"
+  },
+
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  },
+
+  "hero": {
+    "title": "Alebrijes Artesanales de Oaxaca",
+    "subtitle": "Piezas únicas talladas y pintadas a mano por artesanos oaxaqueños.",
+    "button": "Ver Catálogo"
+  },
+
+  "featured": {
+    "title": "Productos Destacados"
+  },
+
+  "about": {
+    "title": "Nuestro Taller",
+    "description": "Cada alebrije es elaborado de manera artesanal utilizando madera de copal y técnicas tradicionales transmitidas por generaciones."
+  },
+
+  "cta": {
+    "title": "¿Te interesa alguna pieza?",
+    "button": "Contactar por WhatsApp"
+  }
+}

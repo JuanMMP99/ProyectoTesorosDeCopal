@@ -1,0 +1,33 @@
+{
+  "navbar": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "workshop": "Workshop",
+    "visits": "Visits",
+    "contact": "Contact"
+  },
+
+  "footer": {
+    "rights": "All rights reserved"
+  },
+
+  "hero": {
+    "title": "Handcrafted Alebrijes from Oaxaca",
+    "subtitle": "Unique pieces carved and painted by hand by Oaxacan artisans.",
+    "button": "View Catalog"
+  },
+
+  "featured": {
+    "title": "Featured Products"
+  },
+
+  "about": {
+    "title": "Our Workshop",
+    "description": "Each alebrije is handcrafted using copal wood and traditional techniques passed down through generations."
+  },
+
+  "cta": {
+    "title": "Interested in a piece?",
+    "button": "Contact via WhatsApp"
+  }
+}
